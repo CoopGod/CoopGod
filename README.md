@@ -1,5 +1,5 @@
-# Thanks for checking me out 🎉
-### Overview 👨🏻‍🦰
+# Thanks for checking me out 👨🏻‍🦰
+### Overview 🎉
 Emerging Tech Nerd, Inspired Programmer, and Future Student of the University Of Alberta.
 ### Languages and Tools 🛠️
 ![](https://img.shields.io/badge/Code-Python-green) ![](https://img.shields.io/badge/Code-JavaScript-green) ![](https://img.shields.io/badge/Code-C%23-green) ![](https://img.shields.io/badge/Code-HTML+CSS-green) ![](https://img.shields.io/badge/Tool-PostgreSQL-orange) ![](https://img.shields.io/badge/Tool-Heroku-orange) ![](https://img.shields.io/badge/OS-Windows-lightgrey) ![](https://img.shields.io/badge/OS-Linux-lightgrey) ![](https://img.shields.io/badge/Editor-VisualStudio-ff69b4)
