@@ -15,5 +15,5 @@ Emerging Tech Nerd, Inspired Programmer, and Future Student of the University Of
 
 ### Where to find me 📮
 - Check out my [LinkedIn](https://www.linkedin.com/in/cooper-goddard-743b76201)!
-- Check out my [Itch](https://coopgod.itch.io/)
-- Check out my [GitHub](github.com/CoopGod)
+- Check out my [Itch](https://coopgod.itch.io/)!
+- Check out my [GitHub](github.com/CoopGod)!
