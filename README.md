@@ -1,4 +1,4 @@
-# Thanks for checking me out 👨🏻‍🦰
+# Thanks for checking me out!
 ### Overview 🎉
 Emerging Tech Nerd, Inspired Programmer, and Future Student of the University Of Alberta.
 ### Languages and Tools 🛠️
