@@ -10,8 +10,8 @@ Emerging Tech Nerd, Inspired Programmer, and Future Student of the University Of
 
 ### What I'm Learning/ Planning to Learn 🍎
 - Ethical Hacking
-- Go
-- Flutter
+- React
+- Tailwind CSS
 
 ### Where to find me 📮
 - Check out my [LinkedIn](https://www.linkedin.com/in/cooper-goddard-743b76201)!
