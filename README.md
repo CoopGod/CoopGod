@@ -13,7 +13,7 @@
 ### What I'm Learning/Planning to Learn 🍎
 - Ethical Hacking
 - React
-- .NET solutions
+- Go
 
 ### Where to find me 📮
 - Check out my [LinkedIn](https://www.linkedin.com/in/cooper-goddard-743b76201)!
