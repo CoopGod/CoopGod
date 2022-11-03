@@ -18,4 +18,4 @@
 ### Where to find me 📮
 - Check out my [LinkedIn](https://www.linkedin.com/in/cooper-goddard-743b76201)!
 - Check out my [Itch](https://coopgod.itch.io/)!
-- Check out my [GitHub](github.com/CoopGod)!
+- And you've found my GitHub!
