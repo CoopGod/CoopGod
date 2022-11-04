@@ -14,7 +14,7 @@
 
 ### What I'm Learning/Planning to Learn 🍎
 - Ethical Hacking
-- React
+- Nim
 - Go
 
 ### Where to find me 📮
