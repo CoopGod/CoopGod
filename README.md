@@ -13,9 +13,8 @@
 </a>
 
 ### What I'm Learning/Planning to Learn 🍎
-- Ethical Hacking
-- Nim
-- Go
+- More complex C
+- More complex ReactJS
 
 ### Where to find me 📮
 - Check out my [LinkedIn](https://www.linkedin.com/in/cooper-goddard-743b76201)!
