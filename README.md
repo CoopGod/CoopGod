@@ -1,6 +1,6 @@
 # Thanks for checking me out!
 ### Overview 🎉
-- Emerging Tech Nerd, Inspired Programmer, and CompSci Student at the University Of Alberta. 
+- Emerging Tech Nerd, Software Developer at Baya 3D, and CompSci Student at the University Of Alberta. 
 - Interested in connecting with others and exploring computer science's place in industries around the globe. 
 - Filling my time with camping, hiking, videogames, community voluteering, and audiobooks.
 ### Languages and Tools 🛠️
