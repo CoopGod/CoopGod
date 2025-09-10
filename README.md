@@ -11,6 +11,6 @@ Software Engineer 🖥️, Student at the University of Alberta ✏️, Salesman
 </a>
 
 ### Where to find me 📮
-- Check out my   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooper-goddard-743b76201)
+- Check out my   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooper-godd)
 - Check out my [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://coopgod.itch.io/)!
 - And you've found my GitHub!
