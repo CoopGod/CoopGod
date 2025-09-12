@@ -4,12 +4,16 @@ Software Engineer 🖥️, student at the University of Alberta ✏️, Hummer E
 
 Hardworking and dedicated professional with a strong experience in software engineering, salesmanship, and leadership. Skilled in solving complex problems, working collaboratively, and delivering & communicating innovative solutions. Strong background knowledge in Earth sciences and sustainability. Passionate about sales and business development within the technical space.
 
-### Languages 🛠️
-![](https://img.shields.io/badge/Code-Python-green) ![](https://img.shields.io/badge/Code-JavaScript-green) ![](https://img.shields.io/badge/Code-AppScript-green) ![](https://img.shields.io/badge/Code-C%23-green) ![](https://img.shields.io/badge/Code-C-green) ![](https://img.shields.io/badge/Code-HTML+CSS-green) ![](https://img.shields.io/badge/Code-SQL-green) ![](https://img.shields.io/badge/Code-R-green)
+### Skills 🛠️
+![](https://img.shields.io/badge/Code-JavaScript-green) ![](https://img.shields.io/badge/Code-Python-green) ![](https://img.shields.io/badge/Code-HTML/CSS-green) ![](https://img.shields.io/badge/Code-SQL-green) ![](https://img.shields.io/badge/Code-C-green) ![](https://img.shields.io/badge/Code-C%23-green) ![](https://img.shields.io/badge/Code-Java-green) ![](https://img.shields.io/badge/Code-Assembly%20Lang-green) ![](https://img.shields.io/badge/Code-Lua-green) ![](https://img.shields.io/badge/Code-AppScript-green) ![](https://img.shields.io/badge/Code-R-green)
+
+![](https://img.shields.io/badge/Framework-ReactJS-orange) ![](https://img.shields.io/badge/Framework-ExpressJS-orange) ![](https://img.shields.io/badge/Framework-Flask-orange) ![](https://img.shields.io/badge/Framework-%2ENET%20Core-orange) 
+
+![](https://img.shields.io/badge/Tool-Git-blue) ![](https://img.shields.io/badge/Tool-Postman-blue) ![](https://img.shields.io/badge/Tool-AWS%20S3-blue) ![](https://img.shields.io/badge/Tool-MySQL-blue) ![](https://img.shields.io/badge/Tool-PostgreSQL-blue) ![](https://img.shields.io/badge/Tool-SQLite-blue) ![](https://img.shields.io/badge/Tool-MongoDB-blue) 
 
 ### 
 <a href="https://github.com/CoopGod/CoopGod">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoopGod&hide=java,html,shaderlab,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoopGod&hide=java,html,shaderlab,tex,hlsl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 ### Where to find me 📮
