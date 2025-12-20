@@ -1,6 +1,6 @@
 # Thanks for checking me out!
 ### Overview 🎉
-Software Engineer 🖥️, student at the University of Alberta ✏️, Hummer Enthusiast 💨, avid hiker & outdoorsman 🌲, community volunteer 😊, Black Belt 🥋.
+Software Engineer 🖥️, student at the University of Alberta ✏️, sustainability and ecology nerd 🌻, avid hiker & outdoorsman 🌲, community volunteer 😊, Black Belt 🥋.
 
 Hardworking and dedicated professional with a strong experience in software engineering, salesmanship, and leadership. Skilled in solving complex problems, working collaboratively, and delivering & communicating innovative solutions. Strong background knowledge in Earth sciences and sustainability. Passionate about sales and business development within the technical space.
 
