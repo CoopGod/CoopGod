@@ -1,8 +1,8 @@
 # Thanks for checking me out!
 ### Overview 🎉
-Software Engineer 🖥️, University of Alberta B.Sc. in Computing Sciences ✏️, sustainability and ecology nerd 🌻, avid hiker & outdoorsman 🌲, community volunteer 😊, Black Belt 🥋.
+Software, DevOps, AppSec Engineer 🖥️, University of Alberta B.Sc. in Computing Sciences ✏️, sustainability and ecology nerd 🌻, avid hiker & outdoorsman 🌲, community volunteer 😊, Black Belt 🥋.
 
-Hardworking and dedicated professional with a strong experience in software engineering, salesmanship, and leadership. Skilled in solving complex problems, working collaboratively, and delivering & communicating innovative solutions. Strong background knowledge in Earth sciences and sustainability. Passionate about sales and business development within the technical space.
+Hardworking and dedicated professional with a strong experience in software engineering, IT, salesmanship, and leadership. Skilled in solving complex problems, working collaboratively, and delivering & communicating innovative solutions. Strong background knowledge in Earth sciences and sustainability. Passionate about sales and business development within the technical space.
 
 ### Skills 🛠️
 ![](https://img.shields.io/badge/Code-JavaScript-green) ![](https://img.shields.io/badge/Code-TypeScript-green) ![](https://img.shields.io/badge/Code-Python-green) ![](https://img.shields.io/badge/Code-HTML/CSS-green) ![](https://img.shields.io/badge/Code-SQL-green) ![](https://img.shields.io/badge/Code-C-green) ![](https://img.shields.io/badge/Code-C%23-green) ![](https://img.shields.io/badge/Code-Java-green) ![](https://img.shields.io/badge/Code-Assembly%20Lang-green) ![](https://img.shields.io/badge/Code-Lua-green) ![](https://img.shields.io/badge/Code-AppScript-green) ![](https://img.shields.io/badge/Code-R-green)
